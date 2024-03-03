@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": 2,
+      "title": "Amra shbai munna kori khali guna"
+    },
+    {
+      "id": 3,
+      "title": "Amra shbai munna kori khali guna"
+    },
+    {
+      "id": "0e4d",
+      "title": "pitha khabi?"
+    },
+    {
+      "id": "ea8a",
+      "title": "haddi"
+    },
+    {
+      "id": "efb5",
+      "title": "lulu bhai"
+    },
+    {
+      "id": "ab13",
+      "title": ""
+    },
+    {
+      "id": "9702",
+      "title": "post korbe munna"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
